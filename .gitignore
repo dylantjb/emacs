@@ -1,0 +1,8 @@
+etc/
+var/
+elpa/
+packages/
+eshell/
+auto-save-list/
+auto-save-list/
+init.el~
